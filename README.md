@@ -22,4 +22,4 @@ This is my personal portfolio website created using HTML and CSS. It showcases m
 
 ## How to Use
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/KRISHNAKUMARPS2002/My-Portfolio.git
