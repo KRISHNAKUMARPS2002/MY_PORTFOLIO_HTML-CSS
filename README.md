@@ -1,8 +1,5 @@
 ﻿# MY_PORTFOLIO_HTML-CSS
 
-# My Portfolio
-
-![Portfolio Preview](preview/Screenshot%202024-03-13%20233432.png)
 
 ## Description
 
