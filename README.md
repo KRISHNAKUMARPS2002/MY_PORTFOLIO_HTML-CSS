@@ -5,6 +5,10 @@
 
 This is my personal portfolio website created using HTML and CSS. It showcases my skills, projects, and contact information.
 
+## GitHub Deployment Link
+
+You can view my portfolio live [here](https://krishnakumarps2002.github.io/MY_PORTFOLIO_HTML-CSS/).
+
 ## Preview Images
 
 ![Preview 1](preview/Screenshot%202024-03-13%20233432.png)
